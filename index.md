@@ -1,10 +1,10 @@
-# Atom & Git
-## Simple-Site
+# FAIR & Data Management
+## Ethical, Sustainable, Collaborative Digital Research & Pedagogy
 
 <small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Research Data Librarian | <a href="http://library.columbia.edu">Columbia University Libraries</a><br />
 moacir.p@columbia.edu<br />
-NY, NY, 7 February 2019</small>
+Barnard College, NY, NY, 26 April 2019</small>
 
 Note: Thanks all for coming, and let’s get started on today’s workshop. First
 thing’s first, I want you all to open up this presentation on your computers.
@@ -12,10 +12,8 @@ It will make things much, much easier. Head on over to
 
 ---
 
-## [talks.moacir.com/atom-and-git](http://talks.moacir.com/atom-and-git)
+## [talks.moacir.com/fair-data-management-barnard](http://talks.moacir.com/fair-data-management-barnard)
 
-Note: This will let you follow along with me, which will come in handy when
-you have to click on links and copy paste things.
 
 ---
 
