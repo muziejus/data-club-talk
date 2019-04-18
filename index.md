@@ -12,8 +12,7 @@ It will make things much, much easier. Head on over to
 
 ---
 
-## [talks.moacir.com/fair-data-management-barnard](http://talks.moacir.com/fair-data-management-barnard)
-
+## [talks.moacir.com/fair-and-data-barnard](http://talks.moacir.com/fair-and-data-barnard)
 
 ---
 
