@@ -16,190 +16,126 @@ It will make things much, much easier. Head on over to
 
 ---
 
-## Software to Get
+## Who Am I and Who Are You?
+
+* Started as Research Data Librarian in October
+* Part of RDS & SESSL
+* Previously English postdoc at NYU
+
+---
+
+## Outline
+
+1. FAIR principles
+1. Data Lifecycle / Roadmap
+1. CUL Studio
+    * Ethical, Sustainable, Collaborative Digital Research and Pedagogy
+
+---
+
+## FAIR
+
+* Developed in 2014
+* Published in 2016 as “[FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)”
+
+---
+
+![FAIR
+logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FAIR_data_principles.jpg/1024px-FAIR_data_principles.jpg)
+
+http://go-fair.org
+
+---
+
+## What Do These Principles Mean to You?
+
+---
+
+<small>
+* *Findable* - easy for both humans and computers
+  * F1. (Meta)data are assigned a globally unique and persistent identifier
+  * F2. Data are described with rich metadata (defined by R1 below)
+  * F3. Metadata clearly and explicitly include the identifier of the data they describe
+  * F4. (Meta)data are registered or indexed in a searchable resource
+* *Accessible* - clear how to access
+  * A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+    * A1.1 The protocol is open, free, and universally implementable
+    * A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+  * A2. Metadata are accessible, even when the data are no longer available
+* *Interoperable* - integrated with other data
+  * I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+  * I2. (Meta)data use vocabularies that follow FAIR principles
+  * I3. (Meta)data include qualified references to other (meta)data
+* *Reusable* - well-described for re-deployment
+  * R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+  * R1.1. (Meta)data are released with a clear and accessible data usage license
+  * R1.2. (Meta)data are associated with detailed provenance
+  * R1.3. (Meta)data meet domain-relevant community standards
+
+</small>
+
+---
+
+## When to Start Thinking about FAIR?
+
+---
+
+## Data Lifecycle / Roadmap
 
 <div class="row">
-<div class="col-6">
-<h3><i class="fab fa-apple"></i> MacOS</h3>
-<ol>
-<li>Atom (<a href="http://atom.io">atom.io</a>)</li>
-<li>Git (installed via Atom)</li>
-<li>GitHub Desktop (<a href="https://desktop.github.com/">GitHub Desktop</a>)</li>
-</ol>
+<div class="col-4"></div>
+<div class="col-4">Project and Data Mgmt Planning </div>
+<div class="col-4"></div>
+</div>
+<div class="row">
+<div class="col-4">Data Reuse</div>
+<div class="col-4"></div>
+<div class="col-4">Data Acquisition</div>
+</div>
+<div class="row">
+<div class="col-4">&nbsp;</div>
+<div class="col-4"><i class="fas fa-circle-notch fa-spin"></i></div>
+<div class="col-4">&nbsp;</div>
+</div>
+<div class="row">
+<div class="col-4">Data Preservation</div>
+<div class="col-4"></div>
+<div class="col-4">Data Analysis</div>
+</div>
+<div class="row">
+<div class="col-4"></div>
+<div class="col-4">Publication and Data Sharing</div>
+<div class="col-4"></div>
 </div>
 
-<div class="col-6">
-<h3><i class="fab fa-windows"></i> Windows</h3>
-<ol>
-<li>Atom (<a href="http://atom.io">atom.io</a>)</li>
-<li>Git (<a href="http://gitforwindows.org">gitforwindows.org</a>)</li>
-<li>GitHub Desktop (<a href="https://desktop.github.com/">GitHub Desktop</a>)</li>
-</ol>
-</div>
-
-Note: While these are all downloading, I’ll describe a bit...
+--> Briney, _Data Management for Researchers_ (Pelagic, 2015)
 
 ---
 
-## While All That’s Downloading, Why Atom?
-
-<ol>
-<li class="fragment">Free</li>
-<li class="fragment">Similar across platforms</li>
-<li class="fragment">One-stop shop with integrated shell</li>
-<li class="fragment">Excellent Git/GitHub support built in</li>
-</ol>
+![Current Data Services at Michigan throughout the Research and Data
+Lifecycles](https://i.imgur.com/OHYuVXo.png)
 
 ---
 
-## Isn’t Google Docs Free and Platform Agnostic?
-
-<ol>
-<li class="fragment">“Free”</li>
-<li class="fragment">Ethics, Availability, and Sustainability of Plain Text (see <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Tenen and Wythoff</a>)</li>
-</ol>
+## One Last Thing…
 
 ---
 
-## OK, but *Git*?
-
-<ol>
-<li class="fragment">Not Git. Please not Git.</li>
-</ol>
-
+![Columbia University Libraries Studio](https://i.imgur.com/X9npe1W.png)
 
 ---
 
-## Git Is…
+## Studios at Butler and Lehman
 
-* “free and open source distributed version control system designed to handle
-everything from small to very large projects with speed and efficiency.”
-* “easy to learn.”
-* A busybody keeping track of all the changes to all your files and never
-forgetting them.
+* Ethical
+* Sustainable
+* Collaborative
+* FAIR, data-driven digital research and pedagogy
 
-Note: That part about “easy to learn” is probably not true. Git is insanely
-powerful, and even people who use it every day probably don’t use more than a
-tiny chunk of it. And that’s because what IS easy is learning just enough Git
-to make it useful for you.
-
----
-
-## Git Is…
-
-<ol>
-<li class="fragment">Part of a backup solution</li>
-<li class="fragment">An intention tracker/writing journal</li>
-<li class="fragment">A declutterer</li>
-<li class="fragment">A multi-verse generator</li>
-<li class="fragment">A collaboration engine</li>
-</ol>
-
----
-
-## The Four Main Steps to Git
-
-<ol>
-<li class="fragment">Save - continuous (with autosave). Not even part of Git.</li>
-<li class="fragment">Stage - less frequent. Also known as `git add`.</li>
-<li class="fragment">Commit - less frequent still.</li>
-<li class="fragment">Push - less frequent still.</li>
-</ol>
-
-Note: Saving is what you already do. The files you work with have changes that
-get saved to the disk. Then, in staging a file, you’re giving Git a heads up
-to keep track of the changes you have made. In committing, you’re putting down
-a milestone for the changes the files have undergone. And in pushing, you’re
-syncing your new changes with a server.
-
----
-
-![The four steps to git](https://i.imgur.com/mNfax2z.png)
-
---> Icons by Font Awesome. [License](https://fontawesome.com/license).
-
-Note: Here’s a slightly more visual way to think about this. But you’ll notice
-here that I’m talking about “changes,” not a “document.” This is a central
-conceit of Git.
-
----
-
-## You’re not working on a _document_.<br />You’re working on a _project_.
-
-Note: For the rest of today, we’ll be working on a project that is your CV.
-It’s not a single document. In fact, it’s many--it’s at least the html page
-that is your online CV and the pdf that is the print version. In a project,
-files come and go. They could be datasets, collections of text like chapters
-or sections of an article, or even, like in today’s workshop, the various
-parts of your CV.
-
----
-
-## Working with Git via GitHub <i class="fab fa-github"></i> and Simple-Site
-
-1. Create an account at [github.com](http://github.com)
-1. Fork the [`simple-site`
-   repository](http://github.com/plain-plain-text/simple-site) (or “project.”)
-1. Enable GitHub pages on the new repository
-
----
-
-## Back to Atom
-
-1. Install Atom plugins: [github.com/plain-plain-text/atom-config/](http://github.com/plain-plain-text/atom-config)
-1. Clone your own, forked `simple-site` repository from GitHub via Atom’s
-   Command Palette (cmd-shift-p or ctrl-shift-p).
-1. Link Atom to GitHub via the GitHub panel in Atom.
-
-Note: Atom is brought to us by the people at GitHub. It probably won’t win you
-any cool kid awards amongst your hacker nerd friends, but it’s an easy editor
-to learn, I think, and its Git integration is tip-top.
-
----
-
-![Screenshot of Atom](https://i.imgur.com/l9OTjBn.png)
-
----
-
-## Key Files in Simple-Site
-
-* 📁 `_posts` (Where posts go, as Markdown files)
-    * `YYYY-MM-DD-some-title.md` (For example)
-* `_config.yml` (Configurations in [YAML](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/)) 
-* `index.md` (Front page, as a Markdown file)
-* `about.md` (About page, as a Markdown file)
-
----
-
-## Markdown?
-
-* Yes, a [Markdown](https://guides.github.com/features/mastering-markdown/)
-
----
-
-![Screenshot of Markdown in action](https://i.imgur.com/KDmpwYM.png)
-
----
-
-## Create a New Post
-
----
-
-![The four steps to git](https://i.imgur.com/mNfax2z.png)
-
---> Icons by Font Awesome. [License](https://fontawesome.com/license).
-
----
-
-## OK, but Git
-
-<ol>
-<li class="fragment">Branching</li>
-<li class="fragment">Issue Tracking via GitHub and Closing via Commit (“closes #n”)</li>
-<li class="fragment"><a href="http://ohshitgit.com">Messing Up</a></li>
-</ol>
+http://studio.cul.columbia.edu
 
 ---
 
 ## Thanks!
-### [@muziejus](http://twitter.com/muziejus) / moacir.p@columbia.edu
+
+
