@@ -1,141 +1,98 @@
-# FAIR & Data Management
-## Ethical, Sustainable, Collaborative Digital Research & Pedagogy
+# Data Club
+## Students at Work in Research Data Services
 
-<small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> / <a href="http://twitter.com/muziejus">@muziejus</a><br />
+<small><a href="http://moacir.com">Moacir P. de Sá Pereira</a> via Jeremiah Trinidad-Christensen<br />
 Research Data Librarian | <a href="http://library.columbia.edu">Columbia University Libraries</a><br />
 moacir.p@columbia.edu<br />
-Barnard College, NY, NY, 26 April 2019</small>
-
-Note: Thanks all for coming, and let’s get started on today’s workshop. First
-thing’s first, I want you all to open up this presentation on your computers.
-It will make things much, much easier. Head on over to 
+Columbia University Libraries, NY, NY, 14 May 2019</small>
 
 ---
 
-## [talks.moacir.com/fair-and-data-barnard](http://talks.moacir.com/fair-and-data-barnard)
+![Data Club Logo](https://i.imgur.com/fENZGF8.png)
 
 ---
 
-## Who Am I and Who Are You?
-
-* Started as Research Data Librarian in October
-* Part of RDS & SESSL
-* Previously English postdoc at NYU
-
----
-
-## Outline
-
-1. FAIR principles
-1. Data Lifecycle / Roadmap
-1. CUL Studio
-    * Ethical, Sustainable, Collaborative Digital Research and Pedagogy
-
----
-
-## FAIR
-
-* Developed in 2014
-* Published in 2016 as “[FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)”
-
----
-
-![FAIR
-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FAIR_data_principles.jpg/1024px-FAIR_data_principles.jpg)
-
-http://go-fair.org
-
----
-
-## What Do These Principles Mean to You?
-
----
-
-<small>
-* *Findable* - easy for both humans and computers
-  * F1. (Meta)data are assigned a globally unique and persistent identifier
-  * F2. Data are described with rich metadata (defined by R1 below)
-  * F3. Metadata clearly and explicitly include the identifier of the data they describe
-  * F4. (Meta)data are registered or indexed in a searchable resource
-* *Accessible* - clear how to access
-  * A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-    * A1.1 The protocol is open, free, and universally implementable
-    * A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-  * A2. Metadata are accessible, even when the data are no longer available
-* *Interoperable* - integrated with other data
-  * I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-  * I2. (Meta)data use vocabularies that follow FAIR principles
-  * I3. (Meta)data include qualified references to other (meta)data
-* *Reusable* - well-described for re-deployment
-  * R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
-  * R1.1. (Meta)data are released with a clear and accessible data usage license
-  * R1.2. (Meta)data are associated with detailed provenance
-  * R1.3. (Meta)data meet domain-relevant community standards
-
-</small>
-
----
-
-## When to Start Thinking about FAIR?
-
----
-
-## Data Lifecycle / Roadmap
+## Our Digital Center Interns
 
 <div class="row">
-<div class="col-4"></div>
-<div class="col-4">Project and Data Mgmt Planning </div>
-<div class="col-4"></div>
+<div class="col-3">
+![Kang](https://studio.cul.columbia.edu/assets/imgs/people/kang.jpeg)
 </div>
+<div class="col-3">
+![Xiaoxi](https://studio.cul.columbia.edu/assets/imgs/people/xiaoxi.jpg)
+</div>
+<div class="col-3">
+![Haoyu](https://i.imgur.com/mme7iY2.jpg)
+</div>
+<div class="col-3">
+![Yiming](https://i.imgur.com/tLMzDaK.jpg)
+</div>
+</div>
+
 <div class="row">
-<div class="col-4">Data Reuse</div>
-<div class="col-4"></div>
-<div class="col-4">Data Acquisition</div>
+<div class="col-3">
+Kang
 </div>
-<div class="row">
-<div class="col-4">&nbsp;</div>
-<div class="col-4"><i class="fas fa-circle-notch fa-spin"></i></div>
-<div class="col-4">&nbsp;</div>
+<div class="col-3">
+Xiaoxi
 </div>
-<div class="row">
-<div class="col-4">Data Preservation</div>
-<div class="col-4"></div>
-<div class="col-4">Data Analysis</div>
+<div class="col-3">
+Haoyu
 </div>
-<div class="row">
-<div class="col-4"></div>
-<div class="col-4">Publication and Data Sharing</div>
-<div class="col-4"></div>
+<div class="col-3">
+Yiming
 </div>
 
---> Briney, _Data Management for Researchers_ (Pelagic, 2015)
+---
+
+## Data Club
+
+1. “Monday Meetings” met nine times
+2. “Intro to Data with (Python|R)” occurred nine times as well
+1. Participants included master’s students, librarians, PhD students, postdocs,
+   and undergrads
+1. Participants came from Statistics, Financial Engineering, History, CS, and
+   English
 
 ---
 
-![Current Data Services at Michigan throughout the Research and Data
-Lifecycles](https://i.imgur.com/OHYuVXo.png)
+## Intro to Data with (Python|R)
+
+1. Language “agnostic”
+1. Teaches different data structures
+1. Teaches simple visualization of tabular data
 
 ---
 
-## One Last Thing…
+## Monday Meetings
+
+1. Introductions and discussions on advanced beginner topics in data
+1. Presentation led by an intern followed by Q&A and some hands on work
 
 ---
 
-![Columbia University Libraries Studio](https://i.imgur.com/X9npe1W.png)
+## Monday Meeting Topics
+
+1. “Machine Learning”: _ML algorithms, TensorFlow, unsupervised ML,
+   interpretable ML, recurring neural networks_
+1. Geospatial data management: _Geopandas_
+1. Geospatial data visualization: _Geopandas, Leaflet for R_
+1. Data visualization: _Ggplot2, Matplotlib_
 
 ---
 
-## Studios at Butler and Lehman
+## Reports
 
-* Ethical
-* Sustainable
-* Collaborative
-* FAIR, data-driven digital research and pedagogy
-
-http://studio.cul.columbia.edu
+1. Interns drafting four reports on Data Club
+1. Our view:
+  * Better time (Monday hard to advertise)
+  * Better outreach (table tents, blackboards)
+  * Clearer delineation that the MMs are intro-level and Intro to Data is
+  _super_ intro-level.
+  * More workshop/hands-on atmosphere
 
 ---
 
-## Thanks!
+## Thanks! / Takk! 🇮🇸
 
 
