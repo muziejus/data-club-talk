@@ -73,8 +73,8 @@ Yiming
 
 ## Monday Meeting Topics
 
-1. “Machine Learning”: _ML algorithms, TensorFlow, unsupervised ML,
-   interpretable ML, recurring neural networks_
+1. Computational Classification (aka “Machine Learning”): _ML algorithms,
+   TensorFlow, unsupervised ML, interpretable ML, recurring neural networks_
 1. Geospatial data management: _Geopandas_
 1. Geospatial data visualization: _Geopandas, Leaflet for R_
 1. Data visualization: _Ggplot2, Matplotlib_
